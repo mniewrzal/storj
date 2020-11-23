@@ -12,7 +12,7 @@ var buildTimestamp string = "1605744312"
 var buildCommitHash string = "205e2e22de68e99e48030b04bdee24256ef5101c"
 
 //go:linkname buildVersion storj.io/private/version.buildVersion
-var buildVersion string = "v1.17.3"
+var buildVersion string = "v1.17.3-serials.1"
 
 //go:linkname buildRelease storj.io/private/version.buildRelease
 var buildRelease string = "true"

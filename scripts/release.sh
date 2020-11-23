@@ -28,7 +28,7 @@ fi
 
 COMMIT=$(git rev-parse HEAD)
 RELEASE=true
-VERSION=v1.16.1-crdb.10
+VERSION=v1.17.3-serials.1
 
 echo Running "go $@"
 exec go "$1" -ldflags \
